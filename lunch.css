@@ -1,0 +1,32 @@
+#mondaypic{
+    width: 250px;
+    height: 125px;
+}
+#tuespic{
+    width: 250px;
+    height: 125px;
+}
+#wedpic{
+    width:250px;
+    height:125px;
+}
+#thurspic{
+    width: 250px;
+    height: 125px;
+}
+#fripic{
+    width: 250px;
+    height: 125px;
+}
+div{
+    border:solid 2px cyan;
+    margin: 5px;
+    text-align:center;
+    width:50%
+}
+#GWC{
+    text-align: center;
+}
+body{
+    align-content: space-around; 
+}
